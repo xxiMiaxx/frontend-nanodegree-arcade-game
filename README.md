@@ -1,6 +1,27 @@
-frontend-nanodegree-arcade-game
-===============================
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+  # Frontend-nanodegree-arcade-game
+
+
+## Table of content :
+* Overview
+* Getting Started
+* How To Play
+* How To Run
+
+
+  ## **Overview**
+---
+Welcome to My classic Arcade Game, this game is devloped using Object Orianted JavaScript concepts. This Game was Developed with love.
+
+ ## **Getting Started**  
+---
+In order for you to enjoy this game you'll need : web browser, and an internet connection.
+
+  ## **How To Play**  
+---
+This is a very simple game, all you have to do is save the little princess from the bugs by walking her to the beach shore and to do that you need to know **How To Run** :
+* Press keybord key :arrow_up: to move forward.
+* Press keybord key :arrow_down: to move backwards.
+* Press keybord key :arrow_right: to go right.
+* Press keybord key :arrow_left: to go left.
