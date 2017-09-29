@@ -16,7 +16,7 @@ Welcome to My classic Arcade Game, this game is devloped using Object Orianted J
 
  ## **Getting Started**  
 ---
-In order for you to enjoy this game you'll need : web browser, and an internet connection.
+In order for you to enjoy this game you'll need : web browser, and an internet connection, then load index.html into your favorite browser.
 
   ## **How To Play**  
 ---
